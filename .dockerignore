@@ -1,0 +1,7 @@
+Dockerfile
+/.git
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+hello
